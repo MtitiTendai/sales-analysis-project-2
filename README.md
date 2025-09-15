@@ -34,4 +34,4 @@ c.) Build a dynamic dashboard to visualise trends and patterns
 You can download the dataset here- <a href= "https://github.com/MtitiTendai/sales-analysis-project-2/blob/main/Coffee%20Shop%20Sales%20Dataset.xlsx">View Dataset</a>
 
 ## Here is the Excel Solution
-- <a href= "https://github.com/MtitiTendai/sales-analysis-project-2/blob/main/Sales%20Analysis%20Project%202.xlsx"><b>See what's in this<b></a>
+Explore the following Excel document to view the solution - <a href= "https://github.com/MtitiTendai/sales-analysis-project-2/blob/main/Sales%20Analysis%20Project%202.xlsx"><b>See what's in this<b></a>
