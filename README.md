@@ -4,8 +4,8 @@ The goal is to transform the data into dynamic dashboard that franchise owners c
 opportunities for the business
 
 ## Requirements
-a.) <b> Profile and prepare the raw data for analysis
-b.) Explore the data with Excel PivotTables
+a.) <b> Profile and prepare the raw data for analysis <br>
+b.) Explore the data with Excel PivotTables <br>
 c.) Build a dynamic dashboard to visualise trends and patterns
 
 # Objectives
