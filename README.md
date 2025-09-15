@@ -1,2 +1,2 @@
-# sales-analysis-project-2
+# Sales-Analysis-Project-2
 A simplified dashboard on Coffee sales analysis
