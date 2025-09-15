@@ -37,4 +37,4 @@ You can download the dataset here- <a href= "https://github.com/MtitiTendai/sale
 Explore the following Excel document to view the solution - <a href= "https://github.com/MtitiTendai/sales-analysis-project-2/blob/main/Sales%20Analysis%20Project%202.xlsx"><b>See what's in this<b></a>
 
 Coffe Sales Analysis Dashboard
-- <a href= "https://github.com/MtitiTendai/sales-analysis-project-2/blob/main/Screenshot%20(67).png">Analysis Dashboard</a>
+![Uploading Screenshot (67).png…](https://github.com/MtitiTendai/sales-analysis-project-2/blob/main/Screenshot%20(67).png)
